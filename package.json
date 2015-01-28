@@ -15,5 +15,12 @@
     "widgets"
   ],
   "author": "tunderdomb",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunderdomb/fidget.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tunderdomb/fidget/issues"
+  }
 }
