@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75090afd-9838-42ba-b801-9c616c1926a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/createPrototype.js" afterPath="$PROJECT_DIR$/lib/createPrototype.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/fragment.js" afterPath="$PROJECT_DIR$/lib/fragment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fidget.iws" />
@@ -29,10 +29,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5365006">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="785">
                   <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
                   <folding />
                 </state>
@@ -43,10 +43,8 @@
             <entry file="file://$PROJECT_DIR$/lib/fragment.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224">
-                  <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-                  <folding>
-                    <element signature="e#42#262#0" expanded="true" />
-                  </folding>
+                  <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -66,7 +64,7 @@
           <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/register.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="880">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
                   <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
                   <folding>
                     <element signature="e#1236#1403#0" expanded="true" />
@@ -94,10 +92,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="createPrototype.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="createPrototype.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/createPrototype.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5803109" vertical-offset="0" max-vertical-offset="772">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
                   <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
                   <folding>
                     <element signature="e#0#759#0" expanded="true" />
@@ -300,7 +298,6 @@
         <option value="$PROJECT_DIR$/sandbox/template/index.html" />
         <option value="$PROJECT_DIR$/sandbox/template/post-item.js" />
         <option value="$PROJECT_DIR$/sandbox/template/post-list.js" />
-        <option value="$PROJECT_DIR$/lib/fragment.js" />
         <option value="$PROJECT_DIR$/lib/delegate.js" />
         <option value="$PROJECT_DIR$/lib/createAttributes.js" />
         <option value="$PROJECT_DIR$/lib/createDispatcher.js" />
@@ -310,6 +307,7 @@
         <option value="$PROJECT_DIR$/lib/defineAttribute.js" />
         <option value="$PROJECT_DIR$/lib/register.js" />
         <option value="$PROJECT_DIR$/lib/createPrototype.js" />
+        <option value="$PROJECT_DIR$/lib/fragment.js" />
       </list>
     </option>
   </component>
@@ -503,7 +501,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423337116137</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="api experiment">
+      <created>1423337173915</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1423337173915</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1005,16 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/fragment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224">
-          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding>
-            <element signature="e#42#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/document-register-element/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49263722" vertical-offset="0" max-vertical-offset="752">
@@ -1087,24 +1081,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
-          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
-          <folding>
-            <element signature="e#89#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/defineAttribute.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="428" max-vertical-offset="1280">
@@ -1136,6 +1112,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/api-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28535032" vertical-offset="0" max-vertical-offset="785">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/createPrototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fragment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="224">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/delegate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1456">
@@ -1152,14 +1154,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/api-test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28535032" vertical-offset="0" max-vertical-offset="785">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
@@ -1171,13 +1165,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createPrototype.js">
+    <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5803109" vertical-offset="0" max-vertical-offset="772">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="448">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
           <folding>
-            <element signature="e#0#759#0" expanded="true" />
+            <element signature="e#89#110#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
