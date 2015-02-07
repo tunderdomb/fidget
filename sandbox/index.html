@@ -27,21 +27,56 @@
 
     debugger
     var CustomElement = fidget.register("custom-element", null, "", {
-      createdCallback: function(){
+      fragment:
+
+        '<div class="title"></div>' +
+        '<div class="thumbnail">' +
+          '<img src="{src}"/>' +
+        '</div>',
+
+      created: function(){
         debugger
+        var fragment = fidget.fragment()
+        this.append(fragment)
+
+        fidget
+          .delegate(this, "click", true)
+          .matches("input", function( input ){
+            // generic logic
+            return true
+          })
+          .matches("input[type=text]", function( input ){
+            if( input.value == "asd" ){
+              return true
+            }
+            return false
+          })
+          .matches("li", function( input ){
+            console.log("input.value == 'asd'")
+          })
       },
-      initializedCallback: function( name ){
+      render: function( data ){
+        return data
+      },
+      update: function( data ){
+
+      },
+      initialize: function( model ){
+        var fragment = fidget.fragment(this, model)
+        fragment.appendTo(this)
+        this.model = model
         debugger
-        this.hello(name)
         console.log("hello")
       },
-      attachedCallback: function(){},
-      detachedCallback: function(){},
-      attributeChangedCallback: function( name, previousValue, value ){},
+      attached: function(){},
+      detached: function(){},
+      attributeChanged: function( name, previousValue, value ){},
 
-      hello: function( name ){
-        debugger
-        console.log("hello", name)
+      prototype: {
+        hello: function( name ){
+          debugger
+          console.log("hello", name)
+        }
       },
 
       attributes: {
