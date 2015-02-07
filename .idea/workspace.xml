@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75090afd-9838-42ba-b801-9c616c1926a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/defineAttribute.js" afterPath="$PROJECT_DIR$/lib/defineAttribute.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/register.js" afterPath="$PROJECT_DIR$/lib/register.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -67,11 +66,11 @@
           <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/register.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.41450778" vertical-offset="0" max-vertical-offset="800">
-                  <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+                <state vertical-scroll-proportion="0.31088084" vertical-offset="0" max-vertical-offset="800">
+                  <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
                   <folding>
-                    <element signature="e#919#1086#0" expanded="true" />
-                    <element signature="e#1212#1280#0" expanded="true" />
+                    <element signature="e#949#1116#0" expanded="true" />
+                    <element signature="e#1242#1310#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -469,7 +468,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423330479108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="api experiment">
+      <created>1423333583284</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1423333583284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -540,8 +545,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="784">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="e#919#1086#0" expanded="true" />
-            <element signature="e#1212#1280#0" expanded="true" />
+            <element signature="e#949#1116#0" expanded="true" />
+            <element signature="e#1242#1310#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1142,11 +1147,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/register.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41450778" vertical-offset="0" max-vertical-offset="800">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.31088084" vertical-offset="0" max-vertical-offset="800">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
-            <element signature="e#919#1086#0" expanded="true" />
-            <element signature="e#1212#1280#0" expanded="true" />
+            <element signature="e#949#1116#0" expanded="true" />
+            <element signature="e#1242#1310#0" expanded="true" />
           </folding>
         </state>
       </provider>
