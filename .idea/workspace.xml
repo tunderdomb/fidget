@@ -67,11 +67,11 @@
           <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/register.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
+                <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="880">
                   <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
                   <folding>
-                    <element signature="e#1379#1546#0" expanded="true" />
-                    <element signature="e#1672#1740#0" expanded="true" />
+                    <element signature="e#1236#1403#0" expanded="true" />
+                    <element signature="e#1529#1597#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -98,8 +98,8 @@
           <file leaf-file-name="createPrototype.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/createPrototype.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5181347" vertical-offset="0" max-vertical-offset="772">
-                  <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+                <state vertical-scroll-proportion="0.8497409" vertical-offset="0" max-vertical-offset="772">
+                  <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
                   <folding>
                     <element signature="e#0#759#0" expanded="true" />
                   </folding>
@@ -492,7 +492,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423335468140</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="api experiment">
+      <created>1423336174346</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1423336174346</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -563,8 +569,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="784">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="e#1379#1546#0" expanded="true" />
-            <element signature="e#1672#1740#0" expanded="true" />
+            <element signature="e#1236#1403#0" expanded="true" />
+            <element signature="e#1529#1597#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1154,16 +1160,16 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding>
-            <element signature="e#1379#1546#0" expanded="true" />
-            <element signature="e#1672#1740#0" expanded="true" />
+            <element signature="e#1236#1403#0" expanded="true" />
+            <element signature="e#1529#1597#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/createPrototype.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5181347" vertical-offset="0" max-vertical-offset="772">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.8497409" vertical-offset="0" max-vertical-offset="772">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
           <folding>
             <element signature="e#0#759#0" expanded="true" />
           </folding>
