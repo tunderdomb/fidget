@@ -1,7 +1,7 @@
 {
   "name": "fidget",
   "version": "0.0.1",
-  "description": "Web Compnents/Custom element widgets",
+  "description": "Web Compnents/Custom element factory",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/tunderdomb/fidget/issues"
+  },
+  "dependencies": {
+    "document-register-element": "~0.1.6"
   }
 }
