@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75090afd-9838-42ba-b801-9c616c1926a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/delegate.js" afterPath="$PROJECT_DIR$/lib/delegate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/createDispatcher.js" afterPath="$PROJECT_DIR$/lib/createDispatcher.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fidget.iws" />
@@ -49,11 +49,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="createDispatcher.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="createDispatcher.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
-                  <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+                <state vertical-scroll-proportion="0.19452888" vertical-offset="0" max-vertical-offset="987">
+                  <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
                   <folding>
                     <element signature="e#89#110#0" expanded="true" />
                   </folding>
@@ -81,10 +81,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="delegate.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="delegate.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/delegate.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.56231004" vertical-offset="165" max-vertical-offset="1456">
+                <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1456">
                   <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
                   <folding>
                     <element signature="e#236#940#0" expanded="true" />
@@ -302,12 +302,12 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/createPrototype.js" />
         <option value="$PROJECT_DIR$/lib/fragment.js" />
-        <option value="$PROJECT_DIR$/lib/createDispatcher.js" />
         <option value="$PROJECT_DIR$/lib/createAttributes.js" />
         <option value="$PROJECT_DIR$/lib/defineAttribute.js" />
         <option value="$PROJECT_DIR$/lib/register.js" />
         <option value="$PROJECT_DIR$/sandbox/api-test.js" />
         <option value="$PROJECT_DIR$/lib/delegate.js" />
+        <option value="$PROJECT_DIR$/lib/createDispatcher.js" />
       </list>
     </option>
   </component>
@@ -554,7 +554,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423414879927</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="api experiment">
+      <created>1423415214424</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1423415214424</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1139,16 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#89#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/createPrototype.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
@@ -1216,7 +1212,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/delegate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56231004" vertical-offset="165" max-vertical-offset="1456">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1456">
           <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
           <folding>
             <element signature="e#236#940#0" expanded="true" />
@@ -1224,6 +1220,16 @@
             <element signature="e#1118#1191#0" expanded="true" />
             <element signature="n#!!block;n#delegateSelector#0" expanded="true" />
             <element signature="n#!!block;n#delegateTarget#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19452888" vertical-offset="0" max-vertical-offset="987">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#89#110#0" expanded="true" />
           </folding>
         </state>
       </provider>
