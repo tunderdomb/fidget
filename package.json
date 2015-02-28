@@ -1,6 +1,6 @@
 {
   "name": "fidget",
-  "version": "0.0.1",
+  "version": "0.3.0",
   "description": "Web Compnents/Custom element factory",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "url": "https://github.com/tunderdomb/fidget/issues"
   },
   "dependencies": {
-    "document-register-element": "~0.1.6"
+    "document-register-element": "latest"
   }
 }
