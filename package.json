@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/tunderdomb/fidget/issues"
   },
-  "dependencies": {
+  "devDependencies": {
     "document-register-element": "latest"
   }
 }
