@@ -1,6 +1,6 @@
 {
   "name": "fidget",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Web Compnents/Custom element factory",
   "main": "index.js",
   "scripts": {
