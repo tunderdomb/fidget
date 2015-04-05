@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75090afd-9838-42ba-b801-9c616c1926a9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/createDispatcher.js" afterPath="$PROJECT_DIR$/lib/createDispatcher.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/register.js" afterPath="$PROJECT_DIR$/lib/register.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -32,9 +33,41 @@
           <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="336">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
                   <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/register.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="3248">
+                  <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+                  <folding>
+                    <element signature="e#338#416#0" expanded="true" />
+                    <element signature="e#434#501#0" expanded="true" />
+                    <element signature="e#524#556#0" expanded="true" />
+                    <element signature="e#626#690#0" expanded="false" />
+                    <element signature="e#1183#1285#0" expanded="false" />
+                    <element signature="e#1629#1675#0" expanded="true" />
+                    <element signature="e#1931#1993#0" expanded="false" />
+                    <element signature="e#2288#2354#0" expanded="false" />
+                    <element signature="e#2587#2644#0" expanded="false" />
+                    <element signature="e#2648#2679#0" expanded="true" />
+                    <element signature="e#4654#4724#0" expanded="false" />
+                    <element signature="n#!!block;n#created#0" expanded="true" />
+                    <element signature="e#4882#5269#0" expanded="true" />
+                    <element signature="n#!!block;n#attributeChanged#0" expanded="true" />
+                    <element signature="e#5402#5857#0" expanded="true" />
+                    <element signature="n#!!block;n#attached#0" expanded="true" />
+                    <element signature="e#5928#6190#0" expanded="true" />
+                    <element signature="n#!!block;n#detached#0" expanded="true" />
+                    <element signature="e#6261#6523#0" expanded="true" />
+                    <element signature="n#!!block;n#staticRender#0" expanded="true" />
+                    <element signature="e#6587#6732#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -42,7 +75,7 @@
           <file leaf-file-name="fragment.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/fragment.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="336">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
                   <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
                   <folding>
                     <element signature="n#!!block;n#fragment#0" expanded="true" />
@@ -56,7 +89,7 @@
           <file leaf-file-name="createFragments.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/createFragments.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="368">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
                   <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
                   <folding>
                     <element signature="e#108#467#0" expanded="true" />
@@ -66,45 +99,13 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="createDispatcher.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="createDispatcher.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="432">
-                  <caret line="15" column="16" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="16" />
+                <state vertical-scroll-proportion="0.16688396" vertical-offset="0" max-vertical-offset="767">
+                  <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
                   <folding>
-                    <element signature="e#89#110#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lib/register.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.20725389" vertical-offset="1232" max-vertical-offset="3248">
-                  <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
-                  <folding>
-                    <element signature="e#338#416#0" expanded="true" />
-                    <element signature="e#434#501#0" expanded="true" />
-                    <element signature="e#524#556#0" expanded="true" />
-                    <element signature="e#626#690#0" expanded="false" />
-                    <element signature="e#1183#1285#0" expanded="false" />
-                    <element signature="e#1629#1675#0" expanded="true" />
-                    <element signature="e#1931#1993#0" expanded="false" />
-                    <element signature="e#2288#2354#0" expanded="false" />
-                    <element signature="e#2587#2644#0" expanded="false" />
-                    <element signature="e#2648#2679#0" expanded="true" />
-                    <element signature="e#4648#4718#0" expanded="false" />
-                    <element signature="n#!!block;n#created#0" expanded="true" />
-                    <element signature="e#4876#5263#0" expanded="true" />
-                    <element signature="n#!!block;n#attributeChanged#0" expanded="true" />
-                    <element signature="e#5396#5851#0" expanded="true" />
-                    <element signature="n#!!block;n#attached#0" expanded="true" />
-                    <element signature="e#5922#6184#0" expanded="true" />
-                    <element signature="n#!!block;n#detached#0" expanded="true" />
-                    <element signature="e#6255#6517#0" expanded="true" />
-                    <element signature="n#!!block;n#staticRender#0" expanded="true" />
-                    <element signature="e#6581#6726#0" expanded="true" />
+                    <element signature="e#98#119#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -236,7 +237,7 @@
           <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.29473683" vertical-offset="0" max-vertical-offset="760">
+                <state vertical-scroll-proportion="0.3018868" vertical-offset="0" max-vertical-offset="742">
                   <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
                   <folding />
                 </state>
@@ -280,7 +281,6 @@
         <option value="$PROJECT_DIR$/sandbox/template/post-item.js" />
         <option value="$PROJECT_DIR$/sandbox/template/post-list.js" />
         <option value="$PROJECT_DIR$/sandbox/api-test.js" />
-        <option value="$PROJECT_DIR$/lib/createDispatcher.js" />
         <option value="$PROJECT_DIR$/lib/createPrototype.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/fidget.js" />
@@ -298,6 +298,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/util/merge.js" />
         <option value="$PROJECT_DIR$/lib/register.js" />
+        <option value="$PROJECT_DIR$/lib/createDispatcher.js" />
       </list>
     </option>
   </component>
@@ -417,14 +418,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -432,6 +429,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -642,7 +643,13 @@
       <option name="project" value="LOCAL" />
       <updated>1427574181158</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="constructor parent + bug fixes">
+      <created>1427664788833</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1427664788834</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -650,25 +657,25 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20445344" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20414507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10181237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -703,7 +710,8 @@
     <MESSAGE value="template rendering with data&#10;rendering shortcut" />
     <MESSAGE value="changed delegate logic to always match" />
     <MESSAGE value="updated component creation logic to accept only getter or setter too&#10;added definition registry for register function&#10;now inheriting events and fragments" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated component creation logic to accept only getter or setter too&#10;added definition registry for register function&#10;now inheriting events and fragments" />
+    <MESSAGE value="constructor parent + bug fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor parent + bug fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -764,7 +772,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="432">
           <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
-            <element signature="e#89#110#0" expanded="true" />
+            <element signature="e#98#119#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -784,17 +792,17 @@
             <element signature="e#2288#2354#0" expanded="false" />
             <element signature="e#2587#2644#0" expanded="false" />
             <element signature="e#2648#2679#0" expanded="true" />
-            <element signature="e#4648#4718#0" expanded="false" />
+            <element signature="e#4654#4724#0" expanded="false" />
             <element signature="n#!!block;n#created#0" expanded="true" />
-            <element signature="e#4876#5263#0" expanded="true" />
+            <element signature="e#4882#5269#0" expanded="true" />
             <element signature="n#!!block;n#attributeChanged#0" expanded="true" />
-            <element signature="e#5396#5851#0" expanded="true" />
+            <element signature="e#5402#5857#0" expanded="true" />
             <element signature="n#!!block;n#attached#0" expanded="true" />
-            <element signature="e#5922#6184#0" expanded="true" />
+            <element signature="e#5928#6190#0" expanded="true" />
             <element signature="n#!!block;n#detached#0" expanded="true" />
-            <element signature="e#6255#6517#0" expanded="true" />
+            <element signature="e#6261#6523#0" expanded="true" />
             <element signature="n#!!block;n#staticRender#0" expanded="true" />
-            <element signature="e#6581#6726#0" expanded="true" />
+            <element signature="e#6587#6732#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -960,7 +968,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="544">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
-            <element signature="e#89#110#0" expanded="true" />
+            <element signature="e#98#119#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1027,7 +1035,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="544">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
-            <element signature="e#89#110#0" expanded="true" />
+            <element signature="e#98#119#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1078,13 +1086,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="176">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -1107,13 +1115,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="176">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/document-register-element/package.json">
@@ -1200,26 +1208,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/fragment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!block;n#fragment#0" expanded="true" />
-            <element signature="e#97#389#0" expanded="true" />
-            <element signature="e#440#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="336">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/extend.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176">
@@ -1256,27 +1244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="e#89#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/createFragments.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          <folding>
-            <element signature="e#108#467#0" expanded="true" />
-            <element signature="e#300#465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/merge.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
@@ -1298,16 +1265,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29473683" vertical-offset="0" max-vertical-offset="760">
+        <state vertical-scroll-proportion="0.3018868" vertical-offset="0" max-vertical-offset="742">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="336">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/register.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20725389" vertical-offset="1232" max-vertical-offset="3248">
-          <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="3248">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
           <folding>
             <element signature="e#338#416#0" expanded="true" />
             <element signature="e#434#501#0" expanded="true" />
@@ -1319,17 +1294,50 @@
             <element signature="e#2288#2354#0" expanded="false" />
             <element signature="e#2587#2644#0" expanded="false" />
             <element signature="e#2648#2679#0" expanded="true" />
-            <element signature="e#4648#4718#0" expanded="false" />
+            <element signature="e#4654#4724#0" expanded="false" />
             <element signature="n#!!block;n#created#0" expanded="true" />
-            <element signature="e#4876#5263#0" expanded="true" />
+            <element signature="e#4882#5269#0" expanded="true" />
             <element signature="n#!!block;n#attributeChanged#0" expanded="true" />
-            <element signature="e#5396#5851#0" expanded="true" />
+            <element signature="e#5402#5857#0" expanded="true" />
             <element signature="n#!!block;n#attached#0" expanded="true" />
-            <element signature="e#5922#6184#0" expanded="true" />
+            <element signature="e#5928#6190#0" expanded="true" />
             <element signature="n#!!block;n#detached#0" expanded="true" />
-            <element signature="e#6255#6517#0" expanded="true" />
+            <element signature="e#6261#6523#0" expanded="true" />
             <element signature="n#!!block;n#staticRender#0" expanded="true" />
-            <element signature="e#6581#6726#0" expanded="true" />
+            <element signature="e#6587#6732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fragment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!block;n#fragment#0" expanded="true" />
+            <element signature="e#97#389#0" expanded="true" />
+            <element signature="e#440#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/createFragments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding>
+            <element signature="e#108#467#0" expanded="true" />
+            <element signature="e#300#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/createDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16688396" vertical-offset="0" max-vertical-offset="767">
+          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+          <folding>
+            <element signature="e#98#119#0" expanded="true" />
           </folding>
         </state>
       </provider>
