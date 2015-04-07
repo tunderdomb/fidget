@@ -5,5 +5,6 @@ var CustomElement = fidget.register({
   attributes: {},
   fragments: {},
   events: {},
-  components: {}
+  components: {},
+  createdCallback: function(  ){}
 })
