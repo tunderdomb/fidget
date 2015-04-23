@@ -1,10 +1,11 @@
 {
   "name": "fidget",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Web Compnents/Custom element factory",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify index.js -o fidget.js"
   },
   "keywords": [
     "web",
@@ -24,6 +25,7 @@
     "url": "https://github.com/tunderdomb/fidget/issues"
   },
   "devDependencies": {
+    "browserify": "^9.0.8",
     "document-register-element": "latest"
   },
   "dependencies": {
