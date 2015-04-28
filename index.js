@@ -10,9 +10,3 @@ fidget.fragment = fragment
 fidget.components = components
 
 module.exports = fidget
-
-// we're browserified
-if( typeof global != "undefined" && typeof window != "undefined" && global == window ){
-  // set a global reference for dist scripts
-  window.fidget = fidget
-}

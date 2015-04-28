@@ -8,5 +8,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Node.js v0.10.24 Core Modules" level="application" />
     <orderEntry type="library" name="fidget node_modules" level="project" />
+    <orderEntry type="library" name="request-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="requirejs-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="fidget node_modules" level="project" />
   </component>
 </module>
